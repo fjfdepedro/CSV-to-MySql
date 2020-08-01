@@ -3,8 +3,8 @@
 
 # Use
 ```bash
-wget https://link.com/csv-sql.sh
-chmod +x ./csv-sql.sh
+wget https://github.com/lukaneco/CSV-to-MySql/blob/master/convert.sh
+./convert.sh mycsvfile.csv
 ```
 
 # Based On
