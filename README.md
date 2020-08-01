@@ -4,7 +4,7 @@
 # Use
 ```bash
 wget https://github.com/lukaneco/CSV-to-MySql/blob/master/convert.sh
-./convert.sh ./example/mycsvfile.csv
+./convert.sh -f example/mycsvfile.csv
 ```
 
 Based On [this repo](https://github.com/pavanchhatpar/csv-to-sql-converter)

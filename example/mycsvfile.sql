@@ -1,7 +1,5 @@
-DROP DATABASE IF EXISTS mycsvfile;
-CREATE DATABASE mycsvfile;
-USE mycsvfile;
-DROP TABLE IF EXISTS mycsvfilextable;
+USE gg;
+ DROP TABLE IF EXISTS mycsvfilextable;
 CREATE TABLE mycsvfilextable (`Serial Number` varchar(255),`Company Name` varchar(255),`Employee Markme` varchar(255),`Description` varchar(255),`Leave` varchar(255));
 INSERT INTO mycsvfilextable(`Serial Number`,`Company Name`,`Employee Markme`,`Description`,`Leave`) VALUES ("9788189999599","TALES OF SHIVA","Mark","mark","0");
 INSERT INTO mycsvfilextable(`Serial Number`,`Company Name`,`Employee Markme`,`Description`,`Leave`) VALUES ("9780099578079","1Q84 THE COMPLETE TRILOGY","HARUKI MURAKAMI","Mark","0");
