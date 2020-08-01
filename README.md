@@ -7,10 +7,8 @@ wget https://github.com/lukaneco/CSV-to-MySql/blob/master/convert.sh
 ./convert.sh mycsvfile.csv
 ```
 
-# Based On
-```bash
-$ sh csv-sql.sh <filename>.csv
-```
+Based On [this repo](https://github.com/pavanchhatpar/csv-to-sql-converter)
+
 # Screenshots
 ![CSV file](/screenshots/csv.jpg?raw=true "Before conversion")
 
