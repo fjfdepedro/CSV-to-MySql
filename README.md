@@ -10,6 +10,5 @@ wget https://github.com/lukaneco/CSV-to-MySql/blob/master/convert.sh
 Based On [this repo](https://github.com/pavanchhatpar/csv-to-sql-converter)
 
 # Screenshots
-![CSV file](/screenshots/csv.jpg?raw=true "Before conversion")
-
-![SQL file](/screenshots/sql.jpg?raw=true "After conversion")
+![before photo](/images/before.png?raw=true "Before conversion")
+![after photo](/images/after.png?raw=true "After conversion")

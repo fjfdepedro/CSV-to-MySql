@@ -5,8 +5,9 @@ fname="$1"
 #cp TMP_00 $fname
 #rm TMP_00
 
-cat $fname|tr -d '"' > $fname
-
+cat $fname|tr -d '"' > TMP_00
+cp TMP_00 $fname
+rm TMP_00
 
 # https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script
 # https://github.com/pavanchhatpar/csv-to-sql-converter
