@@ -10,8 +10,8 @@ done
 #echo "Table: $intable";
 #echo "Database: $indatabase";
 
-
-
+#https://pythonhosted.org/querycsv/
+#http://code.activestate.com/recipes/498130-create-sql-tables-from-csv-files/
 
 if [ -z "${fname+set}" ]; then
    echo "error file not found"
