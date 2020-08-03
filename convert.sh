@@ -10,6 +10,9 @@ done
 #echo "Table: $intable";
 #echo "Database: $indatabase";
 
+# https://stackoverflow.com/questions/10154633/load-csv-data-into-mysql-in-python/10154650#10154650
+# https://stackoverflow.com/questions/31235642/query-csv-file-in-python-and-create-new-table
+
 #https://pythonhosted.org/querycsv/
 #http://code.activestate.com/recipes/498130-create-sql-tables-from-csv-files/
 
